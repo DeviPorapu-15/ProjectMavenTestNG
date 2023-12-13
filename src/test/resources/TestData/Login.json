@@ -1,0 +1,16 @@
+{
+    "userLogins" : [
+    {
+       "username" : "tomsmith",
+       "password" : "SuperSecretPassword!",
+    },
+    {
+       "username" : "testuser1",
+       "password" : "testuser2",
+    },  
+    {
+       "username" : "testuser1",
+       "password" : "testuser2",
+    } 
+    ]
+    }
